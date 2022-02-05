@@ -5,7 +5,16 @@
 
 In this project I put into practice the manipulation in relational database, using MySQL.
 
-- ✨Good ✨
+Initial Challenges:
+- Files desafio1 to desafio8;
+  
+Data filtering challenges:
+- Files desafio9 to desafio19;
+
+Table manipulation challenges:
+- Files desafio20 to desafio28;
+
+✨Good ✨
 ## Tech Infos
 
 In relational db mysql crud the following technologies are used:
